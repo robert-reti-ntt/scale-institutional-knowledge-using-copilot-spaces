@@ -107,4 +107,3 @@ These documents are living guides that improve through team feedback. If you hav
 ---
 
 **Last Updated**: 2025-12-18
-
